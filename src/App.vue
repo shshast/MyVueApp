@@ -1,5 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+import ShreyasWorld from './components/ShreyasWorld.vue'
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Shreyas Vue App" />
+  <ShreyasWorld />
 </template>
 
 <style scoped>
